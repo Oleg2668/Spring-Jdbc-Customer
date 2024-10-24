@@ -1,0 +1,1 @@
+{"statusCode":200,"reasonPhrase":"OK","success":true,"message":" Customer has been created successfully.","customer":{"id":8,"firstName":"Alice","lastName":"Bright","address":"Odessa.Ukraine","phone":"+380-973653277"}}

@@ -1,0 +1,9 @@
+id,first_name,last_name,address,phone
+1,John,Green,Odessa.Ukraine,+380-973653270
+2,Bob,Bright,Odessa.Ukraine,+380-973653271
+3,Alice,Terra,Odessa.Ukraine,+380-973653272
+4,Tom,Bright,Odessa.Ukraine,+380-973653273
+5,Lucy,Moon,Odessa.Ukraine,+380-973653274
+6,David,Terra,Odessa.Ukraine,+380-973653275
+7,Mary,Waters,Odessa.Ukraine,+380-973653276
+8,Alice,Bright,Odessa.Ukraine,+380-973653277
